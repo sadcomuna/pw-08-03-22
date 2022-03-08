@@ -11,7 +11,7 @@ $(document).ready(function() {
             dataType: 'JSON',
             assync: true,
             data: dados,
-            url: '../modelo/retorno.php',
+            url: '../modelo/function.php',
             success: function(){
 
             }
